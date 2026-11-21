@@ -1,3 +1,4 @@
+<img width="880" height="884" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/6e75ace7-725e-411d-be4b-bec087e7d103" />
 # Nightwatch — AdGuard Home
 
 **Self-hosted DNS filtering and network-wide ad blocking using Proxmox and AdGuard Home.**
